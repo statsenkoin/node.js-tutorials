@@ -1,10 +1,10 @@
-# Node-tutorials
+# Node.js-tutorials
 
 This repository consists of several parts - test tasks from the NodeJs course.
 
 Each task located in a separate branch.
 
-## hw01 - is a simple CLI application that simulates access to file in a database.
+## Branch `hw01` - is a simple CLI application that simulates access to file in a database.
 
 It consists of local json file as a database and a set of function to get data from this database.
 
